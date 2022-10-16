@@ -3,7 +3,7 @@
 
  ### <h1>📖Rule</H1>
 
-<hr>🦊Vtuber Magam Server🦊<hr>
+🦊Vtuber Magam Server🦊<hr></hr>
 
  **규칙 필독 해주세요!**
 
