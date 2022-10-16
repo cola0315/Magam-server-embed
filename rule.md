@@ -1,5 +1,7 @@
  # 📖Rule
 
+ json 파일 링크 : https://cdn.discordapp.com/attachments/1017604684317470751/1031079099059417128/rule_webhook.json
+
 🦊Vtuber Magam Server🦊<hr></hr>
 
  **규칙 필독 해주세요!**
