@@ -1,10 +1,10 @@
 # 마감 서버 임베드 
  마감 서버 임베드 텍스트 저장하는 곳입니다!
-
+ 
+<H1><a href="https://github.com/cola0315/Magam-server-embed#%EC%9E%84%EB%B2%A0%EB%93%9C-%EC%9E%91%EC%84%B1%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95">임베드 작성하는 방법</a></H1>
  <h1><a href="https://github.com/cola0315/Magam-server-embed/blob/main/rule.md">📖Rule</a></h1>
  <H1><a href="https://github.com/cola0315/Magam-server-embed/blob/main/%EC%97%AD%ED%95%A0%20%EC%95%88%EB%82%B4.md">📋역할-안내</a></H1>
  <H1><a href="https://github.com/cola0315/Magam-server-embed/blob/main/%EB%B6%80%EC%8A%A4%ED%84%B0%20%ED%98%9C%ED%83%9D.md">부스터-혜택</a></H1>
- <H1><a href="https://github.com/cola0315/Magam-server-embed#%EC%9E%84%EB%B2%A0%EB%93%9C-%EC%9E%91%EC%84%B1%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95">임베드 작성하는 방법</a></H1>
 
  ### 임베드 작성하는 방법
 
