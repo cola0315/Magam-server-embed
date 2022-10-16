@@ -10,7 +10,7 @@
  1. 이 글 위에 카테고리에서 원하는 채널을 눌러 json 파일 링크를 눌러 json 파일을 다운 받는다.
 <img src="https://cdn.discordapp.com/attachments/1017604684317470751/1031085075007279114/unknown.png">
 
- 2. https://discohook.org에 접속 합니다.
+ 2. https://discohook.org 에 접속 합니다.
 
  3. 디스코드에서 rule방이나 역할 안내 방같은 임베드를 사용하는 방의 설정에 들어간다.
 
