@@ -85,6 +85,7 @@ https://discord.com/guidelines**
 🦊Vtuber Magam Server🦊<hr></hr>
 
 《※ 부스터 혜택 ※》
+
 부스터 혜택은 다음과 같습니다.
 
 ```
