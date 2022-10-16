@@ -60,4 +60,4 @@ https://discord.com/guidelines**
 - 규칙문의 담당 : @STAFF @MANAGER @OWNER / #📃건의-및-질문 -
 
 위 규칙을 다 읽으셨으면 아래 반응을 클릭해주세요.
-<hr>🦊Magam Portfolio Server🦊</hr>
+<hr>🦊Vtuber Magam Server🦊</hr>
