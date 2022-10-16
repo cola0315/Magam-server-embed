@@ -55,9 +55,9 @@
 ```
 
 **9. 디스코드 가이드라인과 ToS를 지켜주세요.
-https://discord.com/guidelines **
+https://discord.com/guidelines**
 
 - 규칙문의 담당 : @STAFF @MANAGER @OWNER / #📃건의-및-질문 -
 
 위 규칙을 다 읽으셨으면 아래 반응을 클릭해주세요.
-🦊Magam Portfolio Server🦊
+<hr>🦊Magam Portfolio Server🦊</hr>
