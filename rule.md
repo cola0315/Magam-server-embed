@@ -1,8 +1,8 @@
  # 📖Rule
 
- json 파일 링크 : https://cdn.discordapp.com/attachments/1017604684317470751/1036635096414965760/rule_webhook.json
+ json 파일 링크 : https://cdn.discordapp.com/attachments/1017604684317470751/1045635323113259018/rule_webhook.json
 
-🦊Vtuber Magam Server🦊<hr></hr>
+<hr>🦊Magam Server🦊</hr>
 
  **규칙 필독 해주세요!**
 
@@ -59,4 +59,4 @@ https://discord.com/guidelines**
 - 규칙문의 담당 : @STAFF @MANAGER @OWNER / #📃건의-및-질문 -
 
 위 규칙을 다 읽으셨으면 아래 반응을 클릭해주세요.
-<hr>🦊Vtuber Magam Server🦊</hr>
+<hr>🦊Magam Server🦊</hr>
